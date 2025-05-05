@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28068240284",
+    "project_id": "mydose-fd432",
+    "storage_bucket": "mydose-fd432.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28068240284:android:3ac06ecd663d4027e4c659",
+        "android_client_info": {
+          "package_name": "com.example.mydose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpqjuC8PgpI4jlSu5xoCZAdkxPXtt3PdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
