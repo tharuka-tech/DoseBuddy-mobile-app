@@ -1,16 +1,27 @@
-# mydose
+DoseBuddy Mobile App is notification reminder application for managing health routines, built using Flutter and Firebase. It supports Patients and Caregivers, offering personalized tools like medication reminders, BMI tracking, sleep monitoring, and a pharmacy locator.
 
-A new Flutter project.
+📱 Patient Features:
 
-## Getting Started
+Schedule medication reminders
 
-This project is a starting point for a Flutter application.
+BMI calculator & sleep tracking
 
-A few resources to get you started if this is your first Flutter project:
+Find nearby pharmacies using Google Maps
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Link with caregivers for support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👥 Caregiver Features:
+
+Send requests to monitor patient data
+
+View shared health metrics
+
+Manage multiple patients from one account
+
+🧰 Tech Stack:
+
+Flutter (Dart)
+
+Firebase (Auth, Firestore, Storage)
+
+Google Maps API
